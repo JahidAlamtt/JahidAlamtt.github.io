@@ -1,0 +1,569 @@
+{
+ "version": 1,
+ "public": true,
+ "profile": {
+  "name": "Md Jahid Alam",
+  "headline": "CSE Undergraduate · Programmer · Designer · Video Editor",
+  "summary": "I'm a CSE undergraduate from Khulna, Bangladesh who writes code, designs visuals and edits videos. I lead a 12-member team at USA Xplorer, compete in ICPC, and teach design and filmmaking on my YouTube channel, Tech Torongo.",
+  "email": "mralam.tt@gmail.com",
+  "altEmail": "",
+  "phone": "",
+  "dob": "",
+  "location": "Khulna, Bangladesh",
+  "photo": "",
+  "links": "GitHub | https://github.com/JahidAlamtt\nLinkedIn | https://www.linkedin.com/in/jahidalam-tt/\nYouTube | https://www.youtube.com/@TechTorongo",
+  "highlights": "13+ | EB-2 NIW petitions approved with my writing\n12 | team members I lead at USA Xplorer\n2026 | ICPC Asia Dhaka Regional qualifier\n2020 | making design & film tutorials on YouTube"
+ },
+ "sections": [
+  {
+   "id": "projects",
+   "title": "Projects & Portfolio",
+   "type": "portfolio",
+   "items": [
+    {
+     "id": "prj-amargpt",
+     "title": "AmarGPT — Matrimony System",
+     "subtitle": "C · Console application · Academic project",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "- Console-based matrimony app in C that gives AI-like replies based on user input\n- GPT stands for Griho Partner Tollashi (\"home partner search\"), named to make the presentation memorable",
+     "link": "",
+     "category": "Software",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "prj-sms",
+     "title": "Student Management System",
+     "subtitle": "Java · OOP · Console application · Academic project",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "- Console-based system applying core OOP concepts in Java",
+     "link": "",
+     "category": "Software",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "prj-ums",
+     "title": "University Management System",
+     "subtitle": "Java · OOP · Console application · Academic project",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "- Console-based university management system built with Java OOP",
+     "link": "",
+     "category": "Software",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "prj-android",
+     "title": "Android App Development",
+     "subtitle": "Java · XML · Self-learning",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "- Built practice Android apps using Java and XML layouts",
+     "link": "",
+     "category": "Software",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "prj-youtube",
+     "title": "Tech Torongo — Video Tutorials",
+     "subtitle": "Design, filmmaking & editing tutorials in Bangla",
+     "start": "2020",
+     "end": "Present",
+     "location": "",
+     "desc": "- Shot, edited and designed thumbnails for every video on the channel",
+     "link": "",
+     "category": "Video",
+     "links": "YouTube channel | https://www.youtube.com/@TechTorongo",
+     "media": ""
+    }
+   ]
+  },
+  {
+   "id": "experience",
+   "title": "Experience",
+   "type": "timeline",
+   "items": [
+    {
+     "id": "exp-usax-lead",
+     "title": "Team Lead",
+     "subtitle": "USA Xplorer — EB-2 NIW immigration law firm",
+     "start": "Jul 2026",
+     "end": "Present",
+     "location": "",
+     "desc": "- Lead a 12-member team preparing EB-2 National Interest Waiver (NIW) petitions\n- Write Statements of Purpose (SOPs), career summaries and recommendation letters for clients\n- Contributed to 13+ approved petitions; worked on 80+ client cases with decisions pending",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "exp-usax-designer",
+     "title": "Designer",
+     "subtitle": "USA Xplorer",
+     "start": "Nov 2025",
+     "end": "Jul 2026",
+     "location": "",
+     "desc": "- Joined as a designer and was promoted to Team Lead within about 8 months",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "exp-torongology",
+     "title": "Founder",
+     "subtitle": "Torongology — EdTech platform",
+     "start": "",
+     "end": "In development",
+     "location": "",
+     "desc": "- Planning and building a Bangla EdTech learning platform",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "exp-youtube",
+     "title": "Founder & Content Creator",
+     "subtitle": "Tech Torongo — YouTube channel",
+     "start": "2020",
+     "end": "Present",
+     "location": "",
+     "desc": "- Create Bangla tutorials on graphic design, filmmaking and video editing\n- Handle the full pipeline: scripting, shooting, editing and thumbnail design",
+     "link": "https://www.youtube.com/@TechTorongo",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "exp-tutor",
+     "title": "Private Tutor",
+     "subtitle": "Self-employed",
+     "start": "2017",
+     "end": "2025",
+     "location": "",
+     "desc": "- Taught students from Class 1 to HSC level\n- Independent home tutoring, not affiliated with any coaching centre",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    }
+   ]
+  },
+  {
+   "id": "competitive",
+   "title": "Competitive Programming",
+   "type": "timeline",
+   "items": [
+    {
+     "id": "cp-icpc26",
+     "title": "ICPC Asia Dhaka Regional 2026 — Qualified",
+     "subtitle": "Selected through the preliminary round; regional contest upcoming",
+     "start": "",
+     "end": "2026",
+     "location": "",
+     "desc": "",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "cp-icpc25",
+     "title": "ICPC Dhaka Regional 2025 — Preliminary Round",
+     "subtitle": "Participant",
+     "start": "",
+     "end": "2025",
+     "location": "",
+     "desc": "",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "cp-prism",
+     "title": "Inter-University Programming Contest",
+     "subtitle": "PRISM Club, KBAU — Participation certificate",
+     "start": "",
+     "end": "2025",
+     "location": "",
+     "desc": "",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "cp-cf",
+     "title": "Codeforces",
+     "subtitle": "Regular problem solving",
+     "start": "",
+     "end": "Ongoing",
+     "location": "",
+     "desc": "",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    }
+   ]
+  },
+  {
+   "id": "research",
+   "title": "Research",
+   "type": "timeline",
+   "items": [
+    {
+     "id": "res-scam",
+     "title": "Bangla SMS Scam Detection",
+     "subtitle": "Ongoing research project",
+     "start": "",
+     "end": "Ongoing",
+     "location": "",
+     "desc": "- Detecting scam and fraudulent SMS messages written in Bangla",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    }
+   ]
+  },
+  {
+   "id": "interests",
+   "title": "Research Interests",
+   "type": "text",
+   "items": [
+    {
+     "id": "int-1",
+     "title": "",
+     "subtitle": "",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "Artificial Intelligence & Machine Learning · Advanced / Super-intelligent AI · Computer Vision · Cybersecurity · Ternary (base-3) Computing",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    }
+   ]
+  },
+  {
+   "id": "education",
+   "title": "Education",
+   "type": "timeline",
+   "items": [
+    {
+     "id": "edu-bsc",
+     "title": "B.Sc. in Computer Science & Engineering",
+     "subtitle": "Khan Bahadur Ahsanullah University, Khulna",
+     "start": "2025",
+     "end": "Expected 2029",
+     "location": "",
+     "desc": "- Currently in 2nd Year, 1st Semester\n- Semester GPA: 3.49 (1-1), 3.37 (1-2) out of 4.00",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "edu-hsc",
+     "title": "Higher Secondary Certificate (HSC), Science",
+     "subtitle": "Ideal College, Keshabpur, Jashore",
+     "start": "",
+     "end": "2024",
+     "location": "",
+     "desc": "GPA: 4.25 / 5.00",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "edu-dakhil",
+     "title": "Dakhil (SSC equivalent)",
+     "subtitle": "Dormutia Dakhil Madrasha",
+     "start": "",
+     "end": "2020",
+     "location": "",
+     "desc": "GPA: 4.08 / 5.00",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    }
+   ]
+  },
+  {
+   "id": "skills",
+   "title": "Skills",
+   "type": "skills",
+   "items": [
+    {
+     "id": "sk-prog",
+     "title": "Programming",
+     "subtitle": "",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "C (incl. pointers & function pointers), Java (OOP), Android (Java + XML, basic)",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "sk-writing",
+     "title": "Professional Writing",
+     "subtitle": "",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "SOPs, career summaries, recommendation letters",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "sk-video",
+     "title": "Video Editing",
+     "subtitle": "",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "DaVinci Resolve, Adobe Premiere Pro, Kdenlive, Shotcut, Filmcraft, Lumit, CapCut, LumaFusion, VN, KineMaster, Alight Motion, Node Video",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "sk-design",
+     "title": "Graphic Design",
+     "subtitle": "",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "Adobe Photoshop, Adobe Illustrator, Affinity, Figma, Canva — posters, logos, thumbnails, banners",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "sk-3d",
+     "title": "3D",
+     "subtitle": "",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "Blender (hobby projects; learning Geometry Nodes)",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    }
+   ]
+  },
+  {
+   "id": "leadership",
+   "title": "Leadership & Activities",
+   "type": "timeline",
+   "items": [
+    {
+     "id": "ld-scout",
+     "title": "Hiking Patrol Leader",
+     "subtitle": "Bangladesh Scouts",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "ld-bondhu",
+     "title": "Founder",
+     "subtitle": "Bondhu Shilpigoshthi — Islamic cultural group (songs, acting, recitation)",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    }
+   ]
+  },
+  {
+   "id": "awards",
+   "title": "Awards & Honours",
+   "type": "timeline",
+   "items": [
+    {
+     "id": "aw-reader",
+     "title": "Best Reader Award",
+     "subtitle": "Bishwo Sahitto Kendro",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "aw-recite-best",
+     "title": "Best of the Best Award — Recitation",
+     "subtitle": "",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "aw-debate",
+     "title": "Crest — Debate",
+     "subtitle": "Dormutia Dakhil Madrasha",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    }
+   ]
+  },
+  {
+   "id": "languages",
+   "title": "Languages",
+   "type": "skills",
+   "items": [
+    {
+     "id": "lang-bn",
+     "title": "Bangla",
+     "subtitle": "",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "Native",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "lang-en",
+     "title": "English",
+     "subtitle": "",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "Fluent",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "lang-ar",
+     "title": "Arabic",
+     "subtitle": "",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "Reading & writing",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    },
+    {
+     "id": "lang-hi",
+     "title": "Hindi",
+     "subtitle": "",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "Basic listening comprehension",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    }
+   ]
+  },
+  {
+   "id": "writing",
+   "title": "Creative Writing",
+   "type": "timeline",
+   "items": [
+    {
+     "id": "wr-1",
+     "title": "Short stories & poems (Bangla)",
+     "subtitle": "",
+     "start": "",
+     "end": "",
+     "location": "",
+     "desc": "- Work published in the school magazine\n- Regular contributor to the online poetry platform Kobitar Ashor",
+     "link": "",
+     "category": "",
+     "links": "",
+     "media": ""
+    }
+   ]
+  }
+ ],
+ "presets": [
+  {
+   "id": "public",
+   "name": "Website (public)",
+   "template": "modern",
+   "headline": "",
+   "summary": "",
+   "hiddenFields": [],
+   "order": [
+    "projects",
+    "experience",
+    "competitive",
+    "research",
+    "interests",
+    "education",
+    "skills",
+    "leadership",
+    "awards",
+    "languages",
+    "writing"
+   ],
+   "hiddenSections": [],
+   "hiddenItems": []
+  }
+ ],
+ "trash": [],
+ "settings": {
+  "websitePreset": "public",
+  "accent": "#0e7490",
+  "siteAccent": "#ff4d2e"
+ }
+}
